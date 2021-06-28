@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, welcome to my github profile</h1>
+<h3 align="center">My name is Dmitry and I'm passionate about  technologies.</h3>
 
 <!--
 **DZhirutin/DZhirutin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
